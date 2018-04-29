@@ -17,15 +17,14 @@ In this Project I used **_descriptive_** and **_inferencial_** statistics to ana
 **Test Conducted**
 - t-tese; t-test is because sample size(n)=24 < 30
 
-** Python Libraries used**
+**Python Libraries used**
 - Pandas
 - Numpy
 - matplotlib
 - scipy
 
-** Data set used**
+**Data set used**
 - stroopdata.csv
 
-** Conclusion drawn**
+**Conclusion drawn**
 - _Average of "Congruent" and "Incongruent" variables are significantly different._
-
