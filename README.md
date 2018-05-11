@@ -2,7 +2,7 @@
 In this Project I used **_descriptive_** and **_inferencial_** statistics to analyze **Stroop effect** in Python. In psychology, the **Stroop effect** is a demonstration of interference in the reaction time of a task, check the __[Wikipedia](https://en.wikipedia.org/wiki/Stroop_effect)__.
 
 **Some terminologies used in the process of analysis:**
-- Dependent variables
+- Dependent variables.
 - Independent variables
 - Congruency(word and ink color are same)
 - Incongruency(word and ink color are different)
