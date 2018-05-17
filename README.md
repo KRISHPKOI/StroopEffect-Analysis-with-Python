@@ -8,7 +8,7 @@ In this Project I used **_descriptive_** and **_inferencial_** statistics to ana
 - Incongruency(word and ink color are different)
 - Null Hypothesis(H0)
 - Alternative Hypothesis(H1)
-- P-value
+- p-value
 - Confidence interval
 - Sample size
 - Population size
