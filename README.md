@@ -14,7 +14,7 @@ In this Project I used **_descriptive_** and **_inferencial_** statistics to ana
 - Population size
 - Descriptive statistics
 
-**Test Conducted**
+**Statistical Test Conducted**
 - t-tese; t-test is because sample size(n)=24 < 30
 
 **Python Libraries used**
